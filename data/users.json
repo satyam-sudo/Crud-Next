@@ -1,0 +1,29 @@
+[
+    {
+        "firstName": "Satyam",
+        "lastName": "gupta",
+        "email": "admin@123.com",
+        "password": "123654",
+        "id": 1,
+        "dateCreated": "2022-06-15T07:59:51.101Z",
+        "dateUpdated": "2022-06-15T07:59:51.101Z"
+    },
+    {
+        "firstName": "Satyam",
+        "lastName": "gupta",
+        "email": "user@123.com",
+        "password": "145632",
+        "id": 2,
+        "dateCreated": "2022-06-15T08:00:54.728Z",
+        "dateUpdated": "2022-06-15T08:00:54.728Z"
+    },
+    {
+        "firstName": "Satyam",
+        "lastName": "gupta",
+        "email": "arjungupta1452@gmail.com",
+        "password": "123654",
+        "id": 3,
+        "dateCreated": "2022-06-15T08:01:47.638Z",
+        "dateUpdated": "2022-06-15T08:01:47.638Z"
+    }
+]
